@@ -1,0 +1,6 @@
+finlab
+numpy
+pandas
+pyarrow
+requests
+

@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+tmp/
+node_modules/
+*.inspect.ndjson
+data/**/cache/
+
